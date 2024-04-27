@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
 
-class Constants {
-   TextStyle _textStyle = TextStyle();
-}
+const TextStyle kTextStyle = TextStyle(fontSize: 30);
+const Color kThemeColor = Color(0xff303030);
